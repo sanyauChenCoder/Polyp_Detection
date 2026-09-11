@@ -50,9 +50,9 @@ Explanation of key parameters:
 
 - `--img`: image resolution (e.g., 640)
 - `--batch`: batch size (e.g., 16)
-- `--epochs`: number of epochs (e.g., 200)
+- `--epochs`: number of epochs (e.g., 100)
 - `--data`: path to your `data.yaml`
-- `--cfg`: model architecture file (e.g., yolov11.yaml)
+- `--cfg`: model architecture file (e.g., RT-DETR-r18.yaml)
 - `--weights`: set to `''` to train from scratch
 - `--name`: experiment name, will be used for saving logs and results
 
